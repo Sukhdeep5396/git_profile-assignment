@@ -38,6 +38,7 @@ export default function App() {
           onPress={() => openLink('tel:+14378382800')}
         >
           +91 989 654 5869
+          +1 437 838 5600
         </Text>
       </View>
 
