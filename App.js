@@ -37,7 +37,7 @@ export default function App() {
           style={styles.link}
           onPress={() => openLink('tel:+14378382800')}
         >
-          +1 437 838 2800
+          +1 437 838 5600
         </Text>
       </View>
 
